@@ -6,7 +6,9 @@ Salaries of Different Data Science Fields in the Data Science Domain
 
 I have collected the data from ai-jobs.net & modified it for my own convenience
 You can check out my notebook for Exploratory Analysis that I have done -
+
 Dataset - https://www.kaggle.com/datasets/whenamancodes/data-science-fields-salary-categorization
+
 Notebook - https://www.kaggle.com/code/whenamancodes/data-science-fields-salary-data-analysis
 
 Original Data Source -
